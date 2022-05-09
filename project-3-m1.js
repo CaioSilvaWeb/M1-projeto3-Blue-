@@ -166,7 +166,7 @@ for (let i = 1; i < 6; i++) {
   horario();
   console.log();
   console.log(
-    `O que voce gostaria de fazer agora ${nome}?\n\n(a) Vamos estudar Logica de programaçao\n(b) Vamos jogar FIFA\n`
+    `O que voce gostaria de fazer agora ${nome}?\n\n(a) Vamos estudar programaçao\n(b) Vamos jogar FIFA\n`
   );
   console.log();
   let respostaDiaDois = prompt().toLowerCase();
@@ -249,7 +249,7 @@ for (let i = 1; i < 6; i++) {
   horario();
   console.log();
   console.log(
-    `O que você gostaria de fazer agora\n\n(a) Estudar bootstrap\n(b) Relaxar e assistir um filme `
+    `O que você gostaria de fazer agora\n\n(a) Estudar JavaScript\n(b) Relaxar e assistir um filme `
   );
   console.log();
   let respostaTarde = prompt().toLowerCase();
